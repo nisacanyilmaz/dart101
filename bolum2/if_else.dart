@@ -10,13 +10,13 @@ main(List<String> args) {
 
   int notDegeri = 75;
 
-  if (notDegeri < 30) {
+  if (notDegeri <= 30) {
     print("Harf notu FF");
-  } else if (notDegeri > 30 && notDegeri < 50) {
+  } else if (notDegeri > 30 && notDegeri <= 50) {
     print("Harf notu CC");
-  } else if (notDegeri > 50 && notDegeri < 70) {
+  } else if (notDegeri > 50 && notDegeri <= 70) {
     print("Harf notu BB");
-  } else if (notDegeri > 70 && notDegeri < 100) {
+  } else if (notDegeri > 70 && notDegeri <= 100) {
     print("Harf notu AA");
   }
 }
