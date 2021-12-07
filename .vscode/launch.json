@@ -9,7 +9,7 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "bolum2/for_while_dowhile.dart"
+            "program": "bolum2/tekrar.dart"
         }
     ]
 }
