@@ -9,7 +9,8 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "bolum2/tekrar.dart"
+            "program": "${file}",
+            "console": "terminal",
         }
     ]
 }
